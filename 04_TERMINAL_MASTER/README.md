@@ -18,3 +18,5 @@
 
 ### Сообщение от Cowsay
 ![Cowsay](/04_TERMINAL_MASTER/screenshots/screen3.png.png)
+
+![alt text](../1582a168ed1ce47d0bba1a52f61b6a1f.jpg)
