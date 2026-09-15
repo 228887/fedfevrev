@@ -1,0 +1,40 @@
+1
+C:\Users\610-26\Desktop
+
+C:\Users\610-26\Desktop>ROOT_LABYRINTH
+"ROOT_LABYRINTH" не является внутренней или внешней
+командой, исполняемой программой или пакетным файлом.
+
+C:\Users\610-26\Desktop>cd ROOT_LABYRINTH
+
+C:\Users\610-26\Desktop\ROOT_LABYRINTH>mkdir SECTOR_A
+
+C:\Users\610-26\Desktop\ROOT_LABYRINTH>cd SECTOR_A
+
+C:\Users\610-26\Desktop\ROOT_LABYRINTH\SECTOR_A>echo mikhailov, egorov, dimov file.txt
+mikhailov, egorov, dimov file.txt
+
+C:\Users\610-26\Desktop\ROOT_LABYRINTH\SECTOR_A>echo mikhailov, egorov, dimov file.txt
+mikhailov, egorov, dimov file.txt
+
+C:\Users\610-26\Desktop\ROOT_LABYRINTH\SECTOR_A>mikhailov, egorov, dimov > file.txt
+"mikhailov" не является внутренней или внешней
+командой, исполняемой программой или пакетным файлом.
+
+C:\Users\610-26\Desktop\ROOT_LABYRINTH\SECTOR_A>mikhailov egorov dimov > file.txt
+"mikhailov" не является внутренней или внешней
+командой, исполняемой программой или пакетным файлом.
+
+C:\Users\610-26\Desktop\ROOT_LABYRINTH\SECTOR_A>echo mikhailov egorov dimov > file.txt
+
+C:\Users\610-26\Desktop\ROOT_LABYRINTH\SECTOR_A>
+2
+C:\Users\610-26\Desktop>cd ROOT_LABYRINTH
+
+C:\Users\610-26\Desktop\ROOT_LABYRINTH>mkdir SECTOR_B
+
+C:\Users\610-26\Desktop\ROOT_LABYRINTH>cd SECTOR_B
+
+C:\Users\610-26\Desktop\ROOT_LABYRINTH\SECTOR_B>echo IS-26-7K > file.txt
+
+C:\Users\610-26\Desktop\ROOT_LABYRINTH\SECTOR_B>
