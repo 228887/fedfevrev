@@ -1,0 +1,9 @@
+[gd_scene format=3 uid="uid://cbq3f6wxkdque"]
+
+[node name="Node2D" type="Node2D" unique_id=1515293338]
+
+[node name="Ground" type="TileMapLayer" parent="." unique_id=2127003567]
+
+[node name="Decor" type="TileMapLayer" parent="." unique_id=208785091]
+
+[node name="Walls" type="TileMapLayer" parent="." unique_id=2138926203]

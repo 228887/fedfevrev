@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    height: 100vh; /* Высота на весь экран */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(90deg, #22bf2c,#697dec) ; 
+    font-family: 'Segoe UI', sans-serif;
+    color: white;
+}
+.glass-card {
+    background: rgba(255, 255, 255, 0.1); 
+    backdrop-filter: blur(10px); 
+    padding: 40px;
+    border-radius: 20px;
+    border: 1px solid rgba(199, 199, 199, 0.2);
+    text-align: center;
+    box-shadow: 0 15px 25px rgba(129, 44, 44, 0.5);
+}
+.avatar {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%; /* Делает фото круглым */
+    object-fit: cover;
+    border: 3px solid #e71616;
+}
+ .btn {
+    margin: 0;
+    height: 5vh; /* Высота на весь экран */
+    display: inline-flex;
+    background-color: #e71616;
+    padding: 6px 6px;
+    border-radius: 8px;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(45deg, #1f1c2c, #928dab); 
+    font-family: 'Segoe UI', sans-serif;
+    color: white;
+    text-decoration: none;
+}
+.btn:hover { background: #928dab; color: #1f1c2c; }
