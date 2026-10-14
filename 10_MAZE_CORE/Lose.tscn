@@ -1,0 +1,28 @@
+[gd_scene format=3 uid="uid://ce36hq435oj0w"]
+
+[ext_resource type="Texture2D" uid="uid://cdgb6w0e3e55t" path="res://icon.svg" id="1_mexgb"]
+
+[node name="Lose" type="Node2D" unique_id=801597250]
+
+[node name="ColorRect" type="ColorRect" parent="." unique_id=322864121]
+offset_right = 191.0
+offset_bottom = 87.0
+color = Color(0.520485, 0.22659555, 0.17849734, 1)
+
+[node name="TextEdit" type="TextEdit" parent="." unique_id=594952928]
+offset_left = 18.0
+offset_top = 16.0
+offset_right = 186.0
+offset_bottom = 64.0
+text = "Вы проиграли!"
+
+[node name="Sprite2D" type="Sprite2D" parent="." unique_id=469078459]
+
+[node name="Sprite2D2" type="Sprite2D" parent="." unique_id=1649066782]
+
+[node name="Sprite2D3" type="Sprite2D" parent="." unique_id=166853495]
+
+[node name="Icon" type="Sprite2D" parent="." unique_id=808849898]
+position = Vector2(99, 74)
+scale = Vector2(0.2851562, 0.1796875)
+texture = ExtResource("1_mexgb")
